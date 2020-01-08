@@ -1,0 +1,4 @@
+export default {
+    ADD_SEARCH: 'ADD_SEARCH',
+    CHANGE_CANAL_TYPES: 'CHANGE_CANAL_TYPES',
+}
